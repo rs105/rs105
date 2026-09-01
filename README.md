@@ -8,15 +8,15 @@ I'm currently an Applied AI Engineer Intern at **MindSpec**, working on automate
 
 At MindSpec I'm building a production RAG pipeline that reads long neuroscience papers, dense tables and figures included, and turns them into schema-validated structured records. The interesting problems are the unglamorous ones: parsing tables and figures without garbling them, validating output against schemas that keep changing, and keeping records deduplicated across hundreds of documents. It's taken work that used to run on a weeks-long cycle down to days.
 
-Stack: LangChain, ChromaDB and PgVector, Docling, Pydantic, and the Anthropic API.
+Stack: LangChain, ChromaDB and PgVector, Docling, LlamaCloud, Pydantic, and Anthropic API.
 
 ## What I work with
 
-**GenAI / ML:** LangChain, LangSmith, RAG, vector databases (ChromaDB, PgVector), Docling, LlamaCloud, Pydantic, scikit-learn, TensorFlow, NLP
-**Languages & data:** Python, SQL, R, REST APIs
-**Databases & warehousing:** PostgreSQL/pgvector, MySQL
-**Analytics & BI:** Power BI, Tableau, Plotly Dash, Excel (Power Query, Solver)
-**Other:** Selenium, Git, Jupyter, JIRA
+- **GenAI / ML:** LangChain, LangSmith, RAG, vector databases (ChromaDB, PgVector), Docling, LlamaCloud, Pydantic, scikit-learn, TensorFlow, NLP
+- **Languages & data:** Python, SQL, R, REST APIs
+- **Databases & warehousing:** PostgreSQL/pgvector, MySQL
+- **Analytics & BI:** Power BI, Tableau, Plotly Dash, Excel (Power Query, Solver)
+- **Other:** Selenium, Git, Jupyter, JIRA
 
 ## Some things I've built
 
