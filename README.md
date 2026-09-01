@@ -12,11 +12,11 @@ Stack: LangChain, ChromaDB and PgVector, Docling, Pydantic, and the Anthropic AP
 
 ## What I work with
 
-**GenAI / ML:** LangChain, RAG, vector databases (ChromaDB, PgVector), Docling, Pydantic, scikit-learn, TensorFlow, NLP
+**GenAI / ML:** LangChain, LangSmith, RAG, vector databases (ChromaDB, PgVector), Docling, LlamaCloud, Pydantic, scikit-learn, TensorFlow, NLP
 **Languages & data:** Python, SQL, R, REST APIs
-**Databases & warehousing:** PostgreSQL, MySQL, MongoDB, Snowflake
+**Databases & warehousing:** PostgreSQL/pgvector, MySQL
 **Analytics & BI:** Power BI, Tableau, Plotly Dash, Excel (Power Query, Solver)
-**Other:** Selenium, Git, Jupyter
+**Other:** Selenium, Git, Jupyter, JIRA
 
 ## Some things I've built
 
@@ -32,7 +32,7 @@ There's more on my [repositories](https://github.com/rs105?tab=repositories) pag
 
 - 🎓 **MS, Business Analytics & Data Science** — Oklahoma State University
 - ⚙️ **B.Tech, Electronics & Communication Engineering** — SRM University
-- 🧪 **Earlier:** test automation at Tata Consultancy Services (Python + Selenium)
+- 🧪 **Earlier:** Quality Assurance at Tata Consultancy Services (Python + Selenium)
 
 ## Reach me
 
