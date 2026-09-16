@@ -1,6 +1,6 @@
 I build LLM and RAG systems that turn messy, unstructured documents into clean data people can use. These days that means research papers, but the problem shows up everywhere: somewhere there's a person copying fields out of a PDF by hand, and usually a model can do most of it.
 
-I'm currently an Applied AI Engineer Intern at **MindSpec**, working on automated extraction from scientific literature. Before this I did an MS in Business Analytics & Data Science, and before *that* I spent a couple of years writing test automation at TCS. So I tend to think about two things at once: how to build the thing, and whether the output is reliable enough that someone will trust it.
+I'm currently an Applied AI Engineer at **MindSpec**, working on automated extraction from scientific literature. Before this I did an MS in Business Analytics & Data Science, and before *that* I spent a couple of years writing test automation at TCS. So I tend to think about two things at once: how to build the thing, and whether the output is reliable enough that someone will trust it.
 
 ## What I'm working on now
 
