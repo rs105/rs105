@@ -4,7 +4,7 @@ I'm currently an Applied AI Engineer at **MindSpec**, working on automated extra
 
 ## What I'm working on now
 
-At MindSpec I'm building a production RAG pipeline that reads long neuroscience papers, dense tables and figures included, and turns them into schema-validated structured records. The interesting problems are the unglamorous ones: parsing tables and figures without garbling them, validating output against schemas that keep changing, and keeping records deduplicated across hundreds of documents. It's taken work that used to run on a weeks-long cycle down to days.
+At MindSpec I'm building a production LLM extraction pipeline that reads long neuroscience papers, dense tables and figures included, and turns them into schema-validated structured records. The interesting problems are the unglamorous ones: parsing tables and figures without garbling them, validating output against a schema that keeps changing, and keeping records deduplicated across 15+ documents. Curating a paper by hand used to take about three hours; the pipeline gets it to about 45 minutes plus a reviewer's sign-off.
 
 Stack: LangChain, ChromaDB and PgVector, Docling, LlamaCloud, Pydantic, and Anthropic API.
 
